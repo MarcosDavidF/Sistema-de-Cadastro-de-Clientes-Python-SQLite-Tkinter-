@@ -41,7 +41,7 @@ Baixe ou clone o projeto:
 
 bash
 Copiar código
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/MarcosDavidF/Sistema-de-Cadastro-de-Clientes-Python-SQLite-Tkinter-
 Execute:
 
 bash
